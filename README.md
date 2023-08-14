@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ayazuddin</h1>
 <h3 align="center">I'm a DevOps Engineer from India. I am specialized in Cloud Automation, Application Automation, Infra Automation, Testing Automation, Configuration Management, Release Management, CI/CD, Containerization, Orchestration, Monitoring Logging and Development.</h3>
 
-- 🔭 I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development.**
-- 🌱 I’m currently exploring **SRE & Platform Engineering**
-- 👯 I’m looking to collaborate on **DevOps, DevSecOps & GitOps**
-- 📫 How to reach me **s.ayazuddin007@gmail.com**
+- I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development.**
+- I’m currently exploring **SRE & Platform Engineering**
+- I’m looking to collaborate on **DevOps, DevSecOps & GitOps**
+- How to reach me on Email:  **s.ayazuddin007@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazuddin007&label=Profile%20views&color=0e75b6&style=flat" alt="ayazuddin007" /> </p>
 
