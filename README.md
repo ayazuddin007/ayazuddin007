@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Summary
 
-- I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development.**
+- I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development**
 - I’m currently exploring **SRE & Platform Engineering**
 - I’m looking to collaborate on **DevOps, DevSecOps & GitOps**
 - How to reach me on Email:  **s.ayazuddin007@gmail.com**
