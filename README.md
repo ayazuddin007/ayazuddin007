@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
-## ⚡ Repo View
+## ⚡ View
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazuddin007&label=Profile%20views&color=0e75b6&style=flat" alt="ayazuddin007" /> </p>
 
