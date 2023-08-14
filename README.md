@@ -17,23 +17,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ayazuddin</h1>
 <h3 align="center">I'm a DevOps Engineer from India. I am specialized in Cloud Automation, Application Automation, Infra Automation, Testing Automation, Configuration Management, Release Management, CI/CD, Containerization, Orchestration, Monitoring Logging and Development.</h3>
 
+- 🔭 I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development.**
+- 🌱 I’m currently learning **Azure & GCP**
+- 👯 I’m looking to collaborate on **DevOps, DevSecOps, GitOps and Cloud**
+- 📫 How to reach me **s.ayazuddin007@gmail.com**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazuddin007&label=Profile%20views&color=0e75b6&style=flat" alt="ayazuddin007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayazuddin007" alt="ayazuddin007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I have worked on DevOps, DevSecOps, GitOps, Cloud & Software Development. **DevOps, DevSecOps, GitOps, Cloud & Software Development.**
-
-- 🌱 I’m currently learning Azure & GCP **Azure & GCP**
-
-- 👯 I’m looking to collaborate on DevOps, DevSecOps, GitOps and Cloud **DevOps, DevSecOps, GitOps and Cloud**
-
-- 💬 Ask me about DevOps, DevSecOps, GitOps and Cloud **DevOps, DevSecOps, GitOps and Cloud**
-
-- 📫 How to reach me **s.ayazuddin007@gmail.com**
-
-- ⚡ Fun fact **I love sharing Knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
