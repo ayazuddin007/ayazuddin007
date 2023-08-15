@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 ## ⚡ Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/ayazuddin ejazuddin" target="blank"><img align="center" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayazuddin ejazuddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayazuddin-ejazuddin" target="blank">
+<img align="left" alt="darinpope | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
