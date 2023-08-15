@@ -58,10 +58,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayazuddin007&show_icons=true&locale=en" alt="ayazuddin007" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayazuddin007&" alt="ayazuddin007" /></p>
 
-## ⚡ Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/ayazuddin-ejazuddin" target="blank">
-<img align="left" alt="darinpope | LinkedIn" height="30" width="40" style="color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-</p>
-
