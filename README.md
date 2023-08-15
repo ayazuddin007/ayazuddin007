@@ -5,6 +5,7 @@
 - I have worked on **DevOps, DevSecOps, GitOps, Cloud & Software Development**
 - I’m currently exploring **SRE & Platform Engineering**
 - I’m looking to collaborate on **DevOps, DevSecOps & GitOps**
+- You can reach me at **s.ayazuddin007@gmail.com**
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
