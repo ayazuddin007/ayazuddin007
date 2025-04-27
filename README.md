@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayazuddin</h1>
-<h3 align="center">I'm a DevOps Engineer from India. I am specialized in Cloud Automation, Application Automation, Infra Automation, Testing Automation, Configuration Management, Release Management, CI/CD, Containerization, Orchestration, Monitoring Logging and Development.</h3>
+<h3 align="center">I'm a DevOps Engineer from Dubai, UAE. I am specialized in DevOps, DevSecOps, GitOps, Cloud, Infrastructure, CICD, Security, Testing, Database, Monitoring, Automation & Software Development..</h3>
 
 ## ⚡ Summary
-- I have 8+ years of experience on **DevOps, DevSecOps, GitOps, Cloud & Software Development**
-- I’m currently exploring **SRE & Platform Engineering**
+- I have 12+ years of experience on **DevOps, DevSecOps, GitOps, Cloud & Software Development**
 - I’m looking to collaborate on **DevOps, DevSecOps & GitOps**
 - You can reach me at **s.ayazuddin007@gmail.com**
 
